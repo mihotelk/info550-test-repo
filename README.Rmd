@@ -13,6 +13,8 @@ text for yet another commit.
 
 _Here is some text on the test branch._
 
+_Here is more text on the test branch._
+
 # My second commit
 
 There is more text that will be added in my second commit.
