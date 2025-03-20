@@ -22,3 +22,15 @@ Here is some final text for my commit.
 # My new_test branch
 
 Here is some text that I will commit to the new_test branch.
+
+# Contribution from resekneb
+
+Hello, lol
+
+```{r}
+print("hello!")
+Sys.Date()
+```
+
+
+

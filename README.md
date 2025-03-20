@@ -19,3 +19,19 @@ Here is some final text for my commit.
 # My new_test branch
 
 Here is some text that I will commit to the new_test branch.
+
+# Contribution from resekneb
+
+Hello, lol
+
+``` r
+print("hello!")
+```
+
+    ## [1] "hello!"
+
+``` r
+Sys.Date()
+```
+
+    ## [1] "2025-03-20"
